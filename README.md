@@ -2,6 +2,12 @@
 
 ## Project Overview
 
+## Acknowledgment
+
+This project was developed for the Operating Systems course at Sejong University.
+
+Special thanks to @zubair1811 for providing project guidance, requirements, and evaluation criteria.
+
 SMART OS RESOURCE MONITORING AGENT is a Python-based Operating Systems project that monitors CPU usage, RAM usage, disk usage, and running processes in real time.
 
 The system analyzes the current resource usage and classifies the computer condition as Normal, Warning, or Critical. It also recommends actions to help improve system performance.
